@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Adesivos por Medida",
+  "description": "Calculadora responsiva para determinar o valor de adesivos personalizados sob medida para gráfica rápida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
